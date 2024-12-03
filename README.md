@@ -16,15 +16,19 @@
   * Flask
   * SQLAlchemy
   * Pytest
+
 - **Frontend**: 
   * React
   * TypeScript
   * Material-UI
+
 - **Mobile**: 
   * Capacitor
+
 - **Mapping**: 
   * Leaflet
   * React-Leaflet
+
 - **3D Rendering**: 
   * Three.js
   * React Three Fiber
