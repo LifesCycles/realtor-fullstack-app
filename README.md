@@ -53,13 +53,34 @@ realtor-fullstack-app/
 
 ## 🚀 Quick Start
 1. Clone the repository
-2. Setup backend: `cd backend && pip install -r requirements.txt`
-3. Setup frontend: `cd frontend && npm install`
-4. Run backend: `python app.py`
-5. Run frontend: `npm run dev`
+```
+git clone https://github.com/LifesCycles/realtor-fullstack-app.git
+```
+2. Setup backend: 
+```
+cd backend && pip install -r requirements.txt
+```
+3. Setup frontend: 
+```
+cd frontend && npm install
+```
+4. Run backend: 
+```
+python app.py
+```
+5. Run frontend: 
+```
+npm run dev
+```
 6. Setup Android:
-   - Install Capacitor: `cd frontend && npm install @capacitor/android @capacitor/core`
-   - Add Android platform: `npx cap add android`
+   - Install Capacitor: 
+```
+cd frontend && npm install @capacitor/android @capacitor/core
+```
+   - Add Android platform: 
+```
+npx cap add android
+```
 7. Sync Android Studio: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
 
 ## 🤝 Contributing
