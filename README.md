@@ -94,6 +94,7 @@ npx cap sync android
 npx cap run android
 ```
    - Sync Android Studio: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
+   📝 **Wireless Debugging Notes**: [View Mobile Troubleshooting Guide](MOBILE_TROUBLESHOOTING.md) for detailed setup and network configuration instructions.
 
 ## 🤝 Contributing
 1. Fork the repository
