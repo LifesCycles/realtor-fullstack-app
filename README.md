@@ -96,6 +96,17 @@ npx cap run android
    - Sync Android Studio: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
    📝 **Wireless Debugging Notes**: [View Mobile Troubleshooting Guide](MOBILE_TROUBLESHOOTING.md) for detailed setup and network configuration instructions.
 
+## 📱 Mobile App Visuals
+Curious about how the app looks? Check out our [Project Visuals and Screenshots](docs/README.md)!
+
+## 🎬 Demo Highlights
+- **Full App Walkthrough**: [Watch our demo video](docs/README.md#-demo-video)
+- **Screenshots**: Explore UI/UX in our [documentation gallery](docs/README.md)
+
+## 📄 Documentation
+- **Project Documentation**: [View detailed project documentation](docs/README.md)
+- **API Documentation**: [View API documentation](docs/API.md)
+
 ## 🤝 Contributing
 1. Fork the repository
 2. Create a feature branch
