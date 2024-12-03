@@ -19,18 +19,16 @@
 [📹 View App Walkthrough Video](demo-videos/app_walkthrough.mp4)
 
 ## 📱 Device Compatibility
-- Android 10+
-- iOS 13+
+- Android 14+ (Tested and Optimized)
+- Android 10-13 (Limited Support)
 
 ## 🌈 UI/UX Features
 - Responsive Design
-- Dark/Light Mode Support
 - Smooth Navigation
 - High-Performance Rendering
 
-## 🔍 Performance Metrics
-- Average Load Time: < 2s
-- Memory Usage: Optimized
-- Battery Efficient
+## 🚀 Performance
+- Optimized for Mobile Devices
+- Efficient Resource Management
 
 **Note**: Screenshots and videos are representative of the latest stable release.
