@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">realtor</string>
-    <string name="title_activity_main">realtor</string>
-    <string name="package_name">com.realtor.app</string>
-    <string name="custom_url_scheme">com.realtor.app</string>
-</resources>
