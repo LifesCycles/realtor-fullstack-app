@@ -114,8 +114,8 @@ Curious about how the app looks? Check out our [Project Visuals and Screenshots]
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
-MIT License - See [LICENSE](LICENSE) for details
-
 ## 🤖 AI Development Assistance
 This project was developed with the assistance of AI technologies, specifically using Codeium's AI coding assistant. While AI helped in code generation and problem-solving, all code has been carefully reviewed and is the intellectual property of the project's human developers.
+
+## 📄 License
+MIT License - See [LICENSE](LICENSE) for details
