@@ -81,7 +81,19 @@ cd frontend && npm install @capacitor/android @capacitor/core
 ```
 npx cap add android
 ```
-7. Sync Android Studio: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
+   - Build the React Project:
+```
+npm run build
+```
+   - Sync Capacitor with Android:
+```
+npx cap sync android
+```
+   - Build Android:
+```
+npx cap run android
+```
+   - Sync Android Studio: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
 
 ## 🤝 Contributing
 1. Fork the repository
