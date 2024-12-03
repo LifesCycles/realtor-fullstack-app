@@ -53,8 +53,8 @@ realtor-fullstack-app/
 3. Setup frontend: `cd frontend && npm install`
 4. Run backend: `python app.py`
 5. Run frontend: `npm run dev`
-6. Setup Android 📱: `cd frontend && npx cap sync android`
-7. Sync Android Studio 🤖: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
+6. Setup Android: `cd frontend && npx cap sync android`
+7. Sync Android Studio: Open Android Studio > `frontend/android` > Click "Sync Project with Gradle Files"
 
 ## 🤝 Contributing
 1. Fork the repository
