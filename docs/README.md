@@ -3,13 +3,16 @@
 ## 🖥️ Mobile App Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<img src="screenshots/home_screen.png" width="300" alt="Home Screen">
 
 ### 3D Tour
-![3D Tour](screenshots/3d_tour.png)
+<img src="screenshots/3d_tour.png" width="300" alt="3D Tour">
 
-### Property Details
-![Property Details](screenshots/property_details.png)
+### List View
+<img src="screenshots/list_view.png" width="300" alt="List View">
+
+### Map View
+<img src="screenshots/map_view.png" width="300" alt="Map View">
 
 ## 🎥 Demo Video
 
